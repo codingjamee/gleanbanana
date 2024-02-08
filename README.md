@@ -69,10 +69,10 @@ $ npm start
 
 
 -   #### 와이어프레임 링크 (예상 웹 화면 UI)  
-   https://www.figma.com/file/tHwRJFb2W4CNIVcwuuwDMB/Glean-Code?type=design&node-id=0-1&mode=design&t=TynRabE2rxwhfw4E-0  
+   <a href="https://www.figma.com/file/tHwRJFb2W4CNIVcwuuwDMB/Glean-Code?type=design&node-id=0-1&mode=design&t=TynRabE2rxwhfw4E-0" target="_blank" >와이어프레임 링크</a>
    
 -   #### API 명세를 문서화한 링크  
-   https://docs.google.com/spreadsheets/d/1Qvphl4MB4StnCNog7uPkcjRBRELTyvRVxiBkCFvOtZE/edit#gid=0  
+   <a href="https://docs.google.com/spreadsheets/d/1Qvphl4MB4StnCNog7uPkcjRBRELTyvRVxiBkCFvOtZE/edit#gid=0" target="_blank">API 명세서 링크</a>
 
    
  ## 6. 프로젝트 팀원 역할 분담  
