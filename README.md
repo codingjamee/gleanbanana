@@ -5,9 +5,11 @@
 
 ## 1. 실행방법 : 
 
-```$ cd front ```  
-```$ npm install ```  
-```$ npm start ```
+```bash
+$ cd front 
+$ npm install 
+$ npm start
+```
 
 
 ## 2. 프로젝트 설명:   
