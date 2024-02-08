@@ -3,11 +3,11 @@
 ### 서비스 명 : 저탄소에 반한 바나나
 
 
-## 1. 바나나 인덱스란 :  
+## 1. 실행방법 : 
 
-바나나 인덱스는 기후 영향과 영양가가 중간 정도인 바나나를 기준으로 식품별 탄소 배출량을 정리한 지표입니다.  
-본 프로젝트는 바나나 인덱스를 활용한 쇼핑몰 서비스로 저탄소 식품 위주의 구매 환경을 마련하고자 합니다.  
-서비스 구성 안내  
+```$ cd front ```  
+```$ npm install ```  
+```$ npm start ```
 
 
 ## 2. 프로젝트 설명:   
@@ -16,9 +16,18 @@
 그 중 탄소 배출량의 식품 소비 비율이 큽니다.  
 친환경 식품 소비를 위해 소비자는 어떻게 해야할지 감이 잘 오지 않습니다.   
  탄소 배출량의 지표로 우리는 바나나 인덱스를 활용하였습니다.  
-바나나 인덱스는 세계적 잡지사 Economist에서 제안한 탄소 배출량을 비교한 지표입니다.   
-우리는 이 바나나 인덱스를 활용해 탄소를 적게 배출하는 지표를 알게 하고  
+우리는 이 바나나 인덱스를 상품마다 표시하여  
+탄소를 적게 배출하는 식품의 지표를 알게 하고  
 친환경 소비를 유도한 쇼핑몰을 만들었습니다.   
+
+
+- 바나나 인덱스란 :  
+
+바나나 인덱스는 기후 영향과 영양가가 중간 정도인  
+바나나를 기준으로 식품별 탄소 배출량을 정리한 지표입니다.  
+본 프로젝트는 바나나 인덱스를 활용한 쇼핑몰 서비스로  
+저탄소 식품 위주의 구매 환경을 마련하고자 합니다.  
+
 
 
 ## 3. 이 서비스의 주요 기능 (주된 활용성) 및 서브 기능 소개  
@@ -41,30 +50,30 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>  
 
 
-   ### 라이브러리
+## 5. 사용한 라이브러리
 
-   #### 데이터분석
+-   #### 데이터분석
    pandas, matplotlib
 
-   #### 프론트엔드
+-   #### 프론트엔드
    error-boundary, axios,
    
-   #### 백엔드
+-   #### 백엔드
    express
    
-   #### 데이터셋
+-   #### 데이터셋
    Banana Index, 1인 탄소 소비량(찾기), 2. 서비스 주요 기능 설명
 
 
 
-   #### 와이어프레임 링크 (예상 웹 화면 UI)  
+-   #### 와이어프레임 링크 (예상 웹 화면 UI)  
    https://www.figma.com/file/tHwRJFb2W4CNIVcwuuwDMB/Glean-Code?type=design&node-id=0-1&mode=design&t=TynRabE2rxwhfw4E-0  
    
-   #### API 명세를 문서화한 링크  
+-   #### API 명세를 문서화한 링크  
    https://docs.google.com/spreadsheets/d/1Qvphl4MB4StnCNog7uPkcjRBRELTyvRVxiBkCFvOtZE/edit#gid=0  
 
    
-   ## 5. 프로젝트 팀원 역할 분담  
+ ## 6. 프로젝트 팀원 역할 분담  
 
 
 
@@ -78,7 +87,7 @@
 
 
 
-## 6. 직접 구현한 기술 :   
+## 7. 직접 구현한 기술 :   
 
 <img width="959" alt="Screenshot 2024-02-08 at 10 49 55 PM" src="https://github.com/codingjamee/gleanbanana/assets/99540667/0400dd1e-a0a4-497f-abbb-3e35f0614da3">
 <img width="959" alt="Screenshot 2024-02-08 at 10 50 03 PM" src="https://github.com/codingjamee/gleanbanana/assets/99540667/1eb6059e-4340-4ef9-8a76-4453fd3963f6">
@@ -87,8 +96,3 @@
 <img width="959" alt="Screenshot 2024-02-08 at 10 50 40 PM" src="https://github.com/codingjamee/gleanbanana/assets/99540667/721892ab-c743-48ba-ab88-9c19c50490f2">
 <img width="959" alt="Screenshot 2024-02-08 at 10 50 48 PM" src="https://github.com/codingjamee/gleanbanana/assets/99540667/d9f2f55f-14b6-4419-a6c5-dae9ba7cd8f2">
 
-
-## 7. 실행방법 : 
-
-```$ npm install ```
-```$ npm start ```
