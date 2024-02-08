@@ -86,8 +86,22 @@
    |장재웅| 백엔드|  
 
 
-
 ## 7. 직접 구현한 기술 :   
+
+
+Redux를 활용하여 한 페이지에 다양한 컴포넌트가   
+렌더링 되어있는 장바구니의 복잡한 로직의  
+상태관리를 구현하였습니다.   
+사용자 장바구니 상태변경에 따른 과도한 Api요청을 막기 위해   
+useDebouncing 훅을 활용하였습니다.  
+Axios Interceptor에서 Jwt토큰 만료시 재발급 로직을 구현하였습니다.  
+공통 컴포넌트 작성을 통해 재사용성을 확보 하였습니다.  
+Sentry를 적용하여 실제 서비스 운용시 에러 디버깅을   
+하고자 하였습니다.
+
+
+
+## 8. 직접 구현한 기술 정리 이미지 :   
 
 <img width="959" alt="Screenshot 2024-02-08 at 10 49 55 PM" src="https://github.com/codingjamee/gleanbanana/assets/99540667/0400dd1e-a0a4-497f-abbb-3e35f0614da3">
 <img width="959" alt="Screenshot 2024-02-08 at 10 50 03 PM" src="https://github.com/codingjamee/gleanbanana/assets/99540667/1eb6059e-4340-4ef9-8a76-4453fd3963f6">
