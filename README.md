@@ -5,9 +5,19 @@
 
 ## 1. 실행방법 : 
 
+
+프론트엔드 실행방법 
+
 ```bash
 $ cd front 
 $ npm install 
+$ npm start
+```
+
+백엔드 실행방법
+```bash
+$ cd back
+$ npm install
 $ npm start
 ```
 
@@ -111,4 +121,14 @@ Sentry를 적용하여 실제 서비스 운용시 에러 디버깅을
 <img width="959" alt="Screenshot 2024-02-08 at 10 50 33 PM" src="https://github.com/codingjamee/gleanbanana/assets/99540667/01237223-bcde-4368-bf8c-493a4bf34946">
 <img width="959" alt="Screenshot 2024-02-08 at 10 50 40 PM" src="https://github.com/codingjamee/gleanbanana/assets/99540667/721892ab-c743-48ba-ab88-9c19c50490f2">
 <img width="959" alt="Screenshot 2024-02-08 at 10 50 48 PM" src="https://github.com/codingjamee/gleanbanana/assets/99540667/d9f2f55f-14b6-4419-a6c5-dae9ba7cd8f2">
+
+
+## 9. 실제 서비스 화면 : 
+
+
+<img width="959" alt="Screenshot 2024-02-08 at 10 37 54 PM" src="https://github.com/codingjamee/gleanbanana/assets/99540667/79e1feba-2a2d-43b2-8a39-fbbcd2ea25d8">
+<img width="959" alt="Screenshot 2024-02-08 at 10 37 54 PM" src="https://github.com/codingjamee/gleanbanana/assets/99540667/8a085467-fde1-4ae7-8143-0b4255468b1f">
+<img width="959" alt="Screenshot 2024-02-08 at 10 37 54 PM" src="https://github.com/codingjamee/gleanbanana/assets/99540667/f1c889cb-a0d1-46d7-b4dc-87a391ebac5d">
+<img width="959" alt="Screenshot 2024-02-08 at 10 37 54 PM" src="https://github.com/codingjamee/gleanbanana/assets/99540667/b3e1a38d-7b84-4508-869f-bc3b47e76161">
+
 
