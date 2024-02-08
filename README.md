@@ -15,7 +15,7 @@
 소비 전 과정에서 탄소가 발생이 되는데,   
 그 중 탄소 배출량의 식품 소비 비율이 큽니다.  
 친환경 식품 소비를 위해 소비자는 어떻게 해야할지 감이 잘 오지 않습니다.   
-<img width="905" alt="Screenshot 2024-02-08 at 10 36 40 PM" src="https://github.com/codingjamee/gleanbanana/assets/99540667/985283a1-b41e-46d2-99cb-dc684413d8ec">
+<img width="959" alt="Screenshot 2024-02-08 at 10 36 40 PM" src="https://github.com/codingjamee/gleanbanana/assets/99540667/985283a1-b41e-46d2-99cb-dc684413d8ec">
 
  탄소 배출량의 지표로 우리는 바나나 인덱스를 활용하였습니다.  
 바나나 인덱스는 세계적 잡지사 Economist에서 제안한 탄소 배출량을 비교한 지표입니다.   
@@ -25,7 +25,7 @@
 
 ## 3. 이 서비스의 주요 기능 (주된 활용성) 및 서브 기능 소개  
 
-<img width="1188" alt="Screenshot 2024-02-08 at 10 38 09 PM" src="https://github.com/codingjamee/gleanbanana/assets/99540667/04499bdc-3505-4dfb-bd5e-71a2e11a2e50">
+<img width="959" alt="Screenshot 2024-02-08 at 10 38 09 PM" src="https://github.com/codingjamee/gleanbanana/assets/99540667/04499bdc-3505-4dfb-bd5e-71a2e11a2e50">
 <img width="959" alt="Screenshot 2024-02-08 at 10 39 45 PM" src="https://github.com/codingjamee/gleanbanana/assets/99540667/42fab800-2e4e-484e-b784-4f1ec1865972">
 
 
